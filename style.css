@@ -1,0 +1,40 @@
+body{
+
+}
+
+.principal{
+    background: beige;
+}
+
+h1 {
+   text-align: center;
+    color: black;
+}
+
+h2{
+    text-align: center;
+    
+}
+
+p {
+    text-align: center;
+}
+
+img{
+    margin-left: 45%;
+    border: 5px line salmon;
+    
+}
+
+h3{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    font-size: 20px;
+}
+
+.turnos{
+    background: white;
+}
